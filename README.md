@@ -1,4 +1,10 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
+
+Hi, I'm Nayha414. I'm currently studying MTH4000 and exploring various fields like programming and mathematics.
+
+- 🌱 I’m currently learning: GitHub and Git!
+- 📫 How to reach me: nayhasyed414@gmail.com
+- ⚡ Fun fact: I love coding and solving mathematical problems!
 
 <!--
 **Nayha414/Nayha414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
